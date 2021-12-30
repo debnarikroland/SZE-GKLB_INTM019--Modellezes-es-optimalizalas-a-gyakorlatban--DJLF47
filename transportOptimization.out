@@ -1,0 +1,897 @@
+Problem:    transportOptimization
+Rows:       232
+Columns:    210 (210 integer, 210 binary)
+Non-zeros:  932
+Status:     INTEGER OPTIMAL
+Objective:  osszKiadas = 116500 (MINimum)
+
+   No.   Row name        Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 csomagFerjenFelaKocsiraEsUtvonalonLegyen[1]
+                                   0                          -0 
+     2 csomagFerjenFelaKocsiraEsUtvonalonLegyen[2]
+                                -100                          -0 
+     3 csomagFerjenFelaKocsiraEsUtvonalonLegyen[3]
+                                 -90                          -0 
+     4 csomagFerjenFelaKocsiraEsUtvonalonLegyen[4]
+                                 -80                          -0 
+     5 csomagFerjenFelaKocsiraEsUtvonalonLegyen[5]
+                                   0                          -0 
+     6 csomagFerjenFelaKocsiraEsUtvonalonLegyen[6]
+                                   0                          -0 
+     7 csomagFerjenFelaKocsiraEsUtvonalonLegyen[7]
+                                   0                          -0 
+     8 csomagFerjenFelaKocsiraEsUtvonalonLegyen[8]
+                                   0                          -0 
+     9 csomagFerjenFelaKocsiraEsUtvonalonLegyen[9]
+                                   0                          -0 
+    10 csomagFerjenFelaKocsiraEsUtvonalonLegyen[10]
+                                   0                          -0 
+    11 ferjenFelAzOsszesCsomagKocsira
+                                1400          1130               
+    12 utvonalonLegyenaCim[1,1]
+                                   0                          -0 
+    13 utvonalonLegyenaCim[1,2]
+                                   0                          -0 
+    14 utvonalonLegyenaCim[1,3]
+                                   0                          -0 
+    15 utvonalonLegyenaCim[1,4]
+                                   0                          -0 
+    16 utvonalonLegyenaCim[1,5]
+                                   0                          -0 
+    17 utvonalonLegyenaCim[1,6]
+                                   0                          -0 
+    18 utvonalonLegyenaCim[1,7]
+                                   0                          -0 
+    19 utvonalonLegyenaCim[1,8]
+                                   0                          -0 
+    20 utvonalonLegyenaCim[1,9]
+                                   0                          -0 
+    21 utvonalonLegyenaCim[1,10]
+                                   0                          -0 
+    22 utvonalonLegyenaCim[1,11]
+                                   0                          -0 
+    23 utvonalonLegyenaCim[1,12]
+                                   0                          -0 
+    24 utvonalonLegyenaCim[1,13]
+                                   0                          -0 
+    25 utvonalonLegyenaCim[1,14]
+                                   0                          -0 
+    26 utvonalonLegyenaCim[1,15]
+                                   0                          -0 
+    27 utvonalonLegyenaCim[1,16]
+                                   0                          -0 
+    28 utvonalonLegyenaCim[1,17]
+                                   0                          -0 
+    29 utvonalonLegyenaCim[1,18]
+                                   0                          -0 
+    30 utvonalonLegyenaCim[1,19]
+                                   0                          -0 
+    31 utvonalonLegyenaCim[1,20]
+                                   0                          -0 
+    32 utvonalonLegyenaCim[2,1]
+                                  -1                          -0 
+    33 utvonalonLegyenaCim[2,2]
+                                   0                          -0 
+    34 utvonalonLegyenaCim[2,3]
+                                  -1                          -0 
+    35 utvonalonLegyenaCim[2,4]
+                                   0                          -0 
+    36 utvonalonLegyenaCim[2,5]
+                                  -1                          -0 
+    37 utvonalonLegyenaCim[2,6]
+                                  -1                          -0 
+    38 utvonalonLegyenaCim[2,7]
+                                   0                          -0 
+    39 utvonalonLegyenaCim[2,8]
+                                  -1                          -0 
+    40 utvonalonLegyenaCim[2,9]
+                                  -1                          -0 
+    41 utvonalonLegyenaCim[2,10]
+                                  -1                          -0 
+    42 utvonalonLegyenaCim[2,11]
+                                  -1                          -0 
+    43 utvonalonLegyenaCim[2,12]
+                                  -1                          -0 
+    44 utvonalonLegyenaCim[2,13]
+                                   0                          -0 
+    45 utvonalonLegyenaCim[2,14]
+                                   0                          -0 
+    46 utvonalonLegyenaCim[2,15]
+                                   0                          -0 
+    47 utvonalonLegyenaCim[2,16]
+                                   0                          -0 
+    48 utvonalonLegyenaCim[2,17]
+                                  -1                          -0 
+    49 utvonalonLegyenaCim[2,18]
+                                  -1                          -0 
+    50 utvonalonLegyenaCim[2,19]
+                                   0                          -0 
+    51 utvonalonLegyenaCim[2,20]
+                                   0                          -0 
+    52 utvonalonLegyenaCim[3,1]
+                                   0                          -0 
+    53 utvonalonLegyenaCim[3,2]
+                                  -1                          -0 
+    54 utvonalonLegyenaCim[3,3]
+                                   0                          -0 
+    55 utvonalonLegyenaCim[3,4]
+                                  -1                          -0 
+    56 utvonalonLegyenaCim[3,5]
+                                   0                          -0 
+    57 utvonalonLegyenaCim[3,6]
+                                  -1                          -0 
+    58 utvonalonLegyenaCim[3,7]
+                                  -1                          -0 
+    59 utvonalonLegyenaCim[3,8]
+                                   0                          -0 
+    60 utvonalonLegyenaCim[3,9]
+                                  -1                          -0 
+    61 utvonalonLegyenaCim[3,10]
+                                   0                          -0 
+    62 utvonalonLegyenaCim[3,11]
+                                  -1                          -0 
+    63 utvonalonLegyenaCim[3,12]
+                                  -1                          -0 
+    64 utvonalonLegyenaCim[3,13]
+                                  -1                          -0 
+    65 utvonalonLegyenaCim[3,14]
+                                  -1                          -0 
+    66 utvonalonLegyenaCim[3,15]
+                                  -1                          -0 
+    67 utvonalonLegyenaCim[3,16]
+                                  -1                          -0 
+    68 utvonalonLegyenaCim[3,17]
+                                  -1                          -0 
+    69 utvonalonLegyenaCim[3,18]
+                                  -1                          -0 
+    70 utvonalonLegyenaCim[3,19]
+                                  -1                          -0 
+    71 utvonalonLegyenaCim[3,20]
+                                  -1                          -0 
+    72 utvonalonLegyenaCim[4,1]
+                                  -1                          -0 
+    73 utvonalonLegyenaCim[4,2]
+                                  -1                          -0 
+    74 utvonalonLegyenaCim[4,3]
+                                  -1                          -0 
+    75 utvonalonLegyenaCim[4,4]
+                                  -1                          -0 
+    76 utvonalonLegyenaCim[4,5]
+                                  -1                          -0 
+    77 utvonalonLegyenaCim[4,6]
+                                   0                          -0 
+    78 utvonalonLegyenaCim[4,7]
+                                  -1                          -0 
+    79 utvonalonLegyenaCim[4,8]
+                                  -1                          -0 
+    80 utvonalonLegyenaCim[4,9]
+                                   0                          -0 
+    81 utvonalonLegyenaCim[4,10]
+                                  -1                          -0 
+    82 utvonalonLegyenaCim[4,11]
+                                   0                          -0 
+    83 utvonalonLegyenaCim[4,12]
+                                   0                          -0 
+    84 utvonalonLegyenaCim[4,13]
+                                  -1                          -0 
+    85 utvonalonLegyenaCim[4,14]
+                                  -1                          -0 
+    86 utvonalonLegyenaCim[4,15]
+                                  -1                          -0 
+    87 utvonalonLegyenaCim[4,16]
+                                  -1                          -0 
+    88 utvonalonLegyenaCim[4,17]
+                                   0                          -0 
+    89 utvonalonLegyenaCim[4,18]
+                                   0                          -0 
+    90 utvonalonLegyenaCim[4,19]
+                                  -1                          -0 
+    91 utvonalonLegyenaCim[4,20]
+                                  -1                          -0 
+    92 utvonalonLegyenaCim[5,1]
+                                   0                          -0 
+    93 utvonalonLegyenaCim[5,2]
+                                   0                          -0 
+    94 utvonalonLegyenaCim[5,3]
+                                   0                          -0 
+    95 utvonalonLegyenaCim[5,4]
+                                   0                          -0 
+    96 utvonalonLegyenaCim[5,5]
+                                   0                          -0 
+    97 utvonalonLegyenaCim[5,6]
+                                   0                          -0 
+    98 utvonalonLegyenaCim[5,7]
+                                   0                          -0 
+    99 utvonalonLegyenaCim[5,8]
+                                   0                          -0 
+   100 utvonalonLegyenaCim[5,9]
+                                   0                          -0 
+   101 utvonalonLegyenaCim[5,10]
+                                   0                          -0 
+   102 utvonalonLegyenaCim[5,11]
+                                   0                          -0 
+   103 utvonalonLegyenaCim[5,12]
+                                   0                          -0 
+   104 utvonalonLegyenaCim[5,13]
+                                   0                          -0 
+   105 utvonalonLegyenaCim[5,14]
+                                   0                          -0 
+   106 utvonalonLegyenaCim[5,15]
+                                   0                          -0 
+   107 utvonalonLegyenaCim[5,16]
+                                   0                          -0 
+   108 utvonalonLegyenaCim[5,17]
+                                   0                          -0 
+   109 utvonalonLegyenaCim[5,18]
+                                   0                          -0 
+   110 utvonalonLegyenaCim[5,19]
+                                   0                          -0 
+   111 utvonalonLegyenaCim[5,20]
+                                   0                          -0 
+   112 utvonalonLegyenaCim[6,1]
+                                   0                          -0 
+   113 utvonalonLegyenaCim[6,2]
+                                   0                          -0 
+   114 utvonalonLegyenaCim[6,3]
+                                   0                          -0 
+   115 utvonalonLegyenaCim[6,4]
+                                   0                          -0 
+   116 utvonalonLegyenaCim[6,5]
+                                   0                          -0 
+   117 utvonalonLegyenaCim[6,6]
+                                   0                          -0 
+   118 utvonalonLegyenaCim[6,7]
+                                   0                          -0 
+   119 utvonalonLegyenaCim[6,8]
+                                   0                          -0 
+   120 utvonalonLegyenaCim[6,9]
+                                   0                          -0 
+   121 utvonalonLegyenaCim[6,10]
+                                   0                          -0 
+   122 utvonalonLegyenaCim[6,11]
+                                   0                          -0 
+   123 utvonalonLegyenaCim[6,12]
+                                   0                          -0 
+   124 utvonalonLegyenaCim[6,13]
+                                   0                          -0 
+   125 utvonalonLegyenaCim[6,14]
+                                   0                          -0 
+   126 utvonalonLegyenaCim[6,15]
+                                   0                          -0 
+   127 utvonalonLegyenaCim[6,16]
+                                   0                          -0 
+   128 utvonalonLegyenaCim[6,17]
+                                   0                          -0 
+   129 utvonalonLegyenaCim[6,18]
+                                   0                          -0 
+   130 utvonalonLegyenaCim[6,19]
+                                   0                          -0 
+   131 utvonalonLegyenaCim[6,20]
+                                   0                          -0 
+   132 utvonalonLegyenaCim[7,1]
+                                   0                          -0 
+   133 utvonalonLegyenaCim[7,2]
+                                   0                          -0 
+   134 utvonalonLegyenaCim[7,3]
+                                   0                          -0 
+   135 utvonalonLegyenaCim[7,4]
+                                   0                          -0 
+   136 utvonalonLegyenaCim[7,5]
+                                   0                          -0 
+   137 utvonalonLegyenaCim[7,6]
+                                   0                          -0 
+   138 utvonalonLegyenaCim[7,7]
+                                   0                          -0 
+   139 utvonalonLegyenaCim[7,8]
+                                   0                          -0 
+   140 utvonalonLegyenaCim[7,9]
+                                   0                          -0 
+   141 utvonalonLegyenaCim[7,10]
+                                   0                          -0 
+   142 utvonalonLegyenaCim[7,11]
+                                   0                          -0 
+   143 utvonalonLegyenaCim[7,12]
+                                   0                          -0 
+   144 utvonalonLegyenaCim[7,13]
+                                   0                          -0 
+   145 utvonalonLegyenaCim[7,14]
+                                   0                          -0 
+   146 utvonalonLegyenaCim[7,15]
+                                   0                          -0 
+   147 utvonalonLegyenaCim[7,16]
+                                   0                          -0 
+   148 utvonalonLegyenaCim[7,17]
+                                   0                          -0 
+   149 utvonalonLegyenaCim[7,18]
+                                   0                          -0 
+   150 utvonalonLegyenaCim[7,19]
+                                   0                          -0 
+   151 utvonalonLegyenaCim[7,20]
+                                   0                          -0 
+   152 utvonalonLegyenaCim[8,1]
+                                   0                          -0 
+   153 utvonalonLegyenaCim[8,2]
+                                   0                          -0 
+   154 utvonalonLegyenaCim[8,3]
+                                   0                          -0 
+   155 utvonalonLegyenaCim[8,4]
+                                   0                          -0 
+   156 utvonalonLegyenaCim[8,5]
+                                   0                          -0 
+   157 utvonalonLegyenaCim[8,6]
+                                   0                          -0 
+   158 utvonalonLegyenaCim[8,7]
+                                   0                          -0 
+   159 utvonalonLegyenaCim[8,8]
+                                   0                          -0 
+   160 utvonalonLegyenaCim[8,9]
+                                   0                          -0 
+   161 utvonalonLegyenaCim[8,10]
+                                   0                          -0 
+   162 utvonalonLegyenaCim[8,11]
+                                   0                          -0 
+   163 utvonalonLegyenaCim[8,12]
+                                   0                          -0 
+   164 utvonalonLegyenaCim[8,13]
+                                   0                          -0 
+   165 utvonalonLegyenaCim[8,14]
+                                   0                          -0 
+   166 utvonalonLegyenaCim[8,15]
+                                   0                          -0 
+   167 utvonalonLegyenaCim[8,16]
+                                   0                          -0 
+   168 utvonalonLegyenaCim[8,17]
+                                   0                          -0 
+   169 utvonalonLegyenaCim[8,18]
+                                   0                          -0 
+   170 utvonalonLegyenaCim[8,19]
+                                   0                          -0 
+   171 utvonalonLegyenaCim[8,20]
+                                   0                          -0 
+   172 utvonalonLegyenaCim[9,1]
+                                   0                          -0 
+   173 utvonalonLegyenaCim[9,2]
+                                   0                          -0 
+   174 utvonalonLegyenaCim[9,3]
+                                   0                          -0 
+   175 utvonalonLegyenaCim[9,4]
+                                   0                          -0 
+   176 utvonalonLegyenaCim[9,5]
+                                   0                          -0 
+   177 utvonalonLegyenaCim[9,6]
+                                   0                          -0 
+   178 utvonalonLegyenaCim[9,7]
+                                   0                          -0 
+   179 utvonalonLegyenaCim[9,8]
+                                   0                          -0 
+   180 utvonalonLegyenaCim[9,9]
+                                   0                          -0 
+   181 utvonalonLegyenaCim[9,10]
+                                   0                          -0 
+   182 utvonalonLegyenaCim[9,11]
+                                   0                          -0 
+   183 utvonalonLegyenaCim[9,12]
+                                   0                          -0 
+   184 utvonalonLegyenaCim[9,13]
+                                   0                          -0 
+   185 utvonalonLegyenaCim[9,14]
+                                   0                          -0 
+   186 utvonalonLegyenaCim[9,15]
+                                   0                          -0 
+   187 utvonalonLegyenaCim[9,16]
+                                   0                          -0 
+   188 utvonalonLegyenaCim[9,17]
+                                   0                          -0 
+   189 utvonalonLegyenaCim[9,18]
+                                   0                          -0 
+   190 utvonalonLegyenaCim[9,19]
+                                   0                          -0 
+   191 utvonalonLegyenaCim[9,20]
+                                   0                          -0 
+   192 utvonalonLegyenaCim[10,1]
+                                   0                          -0 
+   193 utvonalonLegyenaCim[10,2]
+                                   0                          -0 
+   194 utvonalonLegyenaCim[10,3]
+                                   0                          -0 
+   195 utvonalonLegyenaCim[10,4]
+                                   0                          -0 
+   196 utvonalonLegyenaCim[10,5]
+                                   0                          -0 
+   197 utvonalonLegyenaCim[10,6]
+                                   0                          -0 
+   198 utvonalonLegyenaCim[10,7]
+                                   0                          -0 
+   199 utvonalonLegyenaCim[10,8]
+                                   0                          -0 
+   200 utvonalonLegyenaCim[10,9]
+                                   0                          -0 
+   201 utvonalonLegyenaCim[10,10]
+                                   0                          -0 
+   202 utvonalonLegyenaCim[10,11]
+                                   0                          -0 
+   203 utvonalonLegyenaCim[10,12]
+                                   0                          -0 
+   204 utvonalonLegyenaCim[10,13]
+                                   0                          -0 
+   205 utvonalonLegyenaCim[10,14]
+                                   0                          -0 
+   206 utvonalonLegyenaCim[10,15]
+                                   0                          -0 
+   207 utvonalonLegyenaCim[10,16]
+                                   0                          -0 
+   208 utvonalonLegyenaCim[10,17]
+                                   0                          -0 
+   209 utvonalonLegyenaCim[10,18]
+                                   0                          -0 
+   210 utvonalonLegyenaCim[10,19]
+                                   0                          -0 
+   211 utvonalonLegyenaCim[10,20]
+                                   0                          -0 
+   212 vallAmiUtvonalon[1]
+                                   1             1             = 
+   213 vallAmiUtvonalon[2]
+                                   1             1             = 
+   214 vallAmiUtvonalon[3]
+                                   1             1             = 
+   215 vallAmiUtvonalon[4]
+                                   1             1             = 
+   216 vallAmiUtvonalon[5]
+                                   1             1             = 
+   217 vallAmiUtvonalon[6]
+                                   1             1             = 
+   218 vallAmiUtvonalon[7]
+                                   1             1             = 
+   219 vallAmiUtvonalon[8]
+                                   1             1             = 
+   220 vallAmiUtvonalon[9]
+                                   1             1             = 
+   221 vallAmiUtvonalon[10]
+                                   1             1             = 
+   222 vallAmiUtvonalon[11]
+                                   1             1             = 
+   223 vallAmiUtvonalon[12]
+                                   1             1             = 
+   224 vallAmiUtvonalon[13]
+                                   1             1             = 
+   225 vallAmiUtvonalon[14]
+                                   1             1             = 
+   226 vallAmiUtvonalon[15]
+                                   1             1             = 
+   227 vallAmiUtvonalon[16]
+                                   1             1             = 
+   228 vallAmiUtvonalon[17]
+                                   1             1             = 
+   229 vallAmiUtvonalon[18]
+                                   1             1             = 
+   230 vallAmiUtvonalon[19]
+                                   1             1             = 
+   231 vallAmiUtvonalon[20]
+                                   1             1             = 
+   232 osszKiadas             116500                             
+
+   No. Column name       Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 vallViheti[1,1]
+                    *              0             0             1 
+     2 vallViheti[2,1]
+                    *              0             0             1 
+     3 vallViheti[3,1]
+                    *              0             0             1 
+     4 vallViheti[4,1]
+                    *              0             0             1 
+     5 vallViheti[5,1]
+                    *              0             0             1 
+     6 vallViheti[6,1]
+                    *              0             0             1 
+     7 vallViheti[7,1]
+                    *              0             0             1 
+     8 vallViheti[8,1]
+                    *              0             0             1 
+     9 vallViheti[9,1]
+                    *              0             0             1 
+    10 vallViheti[10,1]
+                    *              0             0             1 
+    11 vallViheti[11,1]
+                    *              0             0             1 
+    12 vallViheti[12,1]
+                    *              0             0             1 
+    13 vallViheti[13,1]
+                    *              0             0             1 
+    14 vallViheti[14,1]
+                    *              0             0             1 
+    15 vallViheti[15,1]
+                    *              0             0             1 
+    16 vallViheti[16,1]
+                    *              0             0             1 
+    17 vallViheti[17,1]
+                    *              0             0             1 
+    18 vallViheti[18,1]
+                    *              0             0             1 
+    19 vallViheti[19,1]
+                    *              0             0             1 
+    20 vallViheti[20,1]
+                    *              0             0             1 
+    21 vallViheti[1,2]
+                    *              0             0             1 
+    22 vallViheti[2,2]
+                    *              1             0             1 
+    23 vallViheti[3,2]
+                    *              0             0             1 
+    24 vallViheti[4,2]
+                    *              1             0             1 
+    25 vallViheti[5,2]
+                    *              0             0             1 
+    26 vallViheti[6,2]
+                    *              0             0             1 
+    27 vallViheti[7,2]
+                    *              1             0             1 
+    28 vallViheti[8,2]
+                    *              0             0             1 
+    29 vallViheti[9,2]
+                    *              0             0             1 
+    30 vallViheti[10,2]
+                    *              0             0             1 
+    31 vallViheti[11,2]
+                    *              0             0             1 
+    32 vallViheti[12,2]
+                    *              0             0             1 
+    33 vallViheti[13,2]
+                    *              1             0             1 
+    34 vallViheti[14,2]
+                    *              1             0             1 
+    35 vallViheti[15,2]
+                    *              1             0             1 
+    36 vallViheti[16,2]
+                    *              1             0             1 
+    37 vallViheti[17,2]
+                    *              0             0             1 
+    38 vallViheti[18,2]
+                    *              0             0             1 
+    39 vallViheti[19,2]
+                    *              1             0             1 
+    40 vallViheti[20,2]
+                    *              1             0             1 
+    41 vallViheti[1,3]
+                    *              1             0             1 
+    42 vallViheti[2,3]
+                    *              0             0             1 
+    43 vallViheti[3,3]
+                    *              1             0             1 
+    44 vallViheti[4,3]
+                    *              0             0             1 
+    45 vallViheti[5,3]
+                    *              1             0             1 
+    46 vallViheti[6,3]
+                    *              0             0             1 
+    47 vallViheti[7,3]
+                    *              0             0             1 
+    48 vallViheti[8,3]
+                    *              1             0             1 
+    49 vallViheti[9,3]
+                    *              0             0             1 
+    50 vallViheti[10,3]
+                    *              1             0             1 
+    51 vallViheti[11,3]
+                    *              0             0             1 
+    52 vallViheti[12,3]
+                    *              0             0             1 
+    53 vallViheti[13,3]
+                    *              0             0             1 
+    54 vallViheti[14,3]
+                    *              0             0             1 
+    55 vallViheti[15,3]
+                    *              0             0             1 
+    56 vallViheti[16,3]
+                    *              0             0             1 
+    57 vallViheti[17,3]
+                    *              0             0             1 
+    58 vallViheti[18,3]
+                    *              0             0             1 
+    59 vallViheti[19,3]
+                    *              0             0             1 
+    60 vallViheti[20,3]
+                    *              0             0             1 
+    61 vallViheti[1,4]
+                    *              0             0             1 
+    62 vallViheti[2,4]
+                    *              0             0             1 
+    63 vallViheti[3,4]
+                    *              0             0             1 
+    64 vallViheti[4,4]
+                    *              0             0             1 
+    65 vallViheti[5,4]
+                    *              0             0             1 
+    66 vallViheti[6,4]
+                    *              1             0             1 
+    67 vallViheti[7,4]
+                    *              0             0             1 
+    68 vallViheti[8,4]
+                    *              0             0             1 
+    69 vallViheti[9,4]
+                    *              1             0             1 
+    70 vallViheti[10,4]
+                    *              0             0             1 
+    71 vallViheti[11,4]
+                    *              1             0             1 
+    72 vallViheti[12,4]
+                    *              1             0             1 
+    73 vallViheti[13,4]
+                    *              0             0             1 
+    74 vallViheti[14,4]
+                    *              0             0             1 
+    75 vallViheti[15,4]
+                    *              0             0             1 
+    76 vallViheti[16,4]
+                    *              0             0             1 
+    77 vallViheti[17,4]
+                    *              1             0             1 
+    78 vallViheti[18,4]
+                    *              1             0             1 
+    79 vallViheti[19,4]
+                    *              0             0             1 
+    80 vallViheti[20,4]
+                    *              0             0             1 
+    81 vallViheti[1,5]
+                    *              0             0             1 
+    82 vallViheti[2,5]
+                    *              0             0             1 
+    83 vallViheti[3,5]
+                    *              0             0             1 
+    84 vallViheti[4,5]
+                    *              0             0             1 
+    85 vallViheti[5,5]
+                    *              0             0             1 
+    86 vallViheti[6,5]
+                    *              0             0             1 
+    87 vallViheti[7,5]
+                    *              0             0             1 
+    88 vallViheti[8,5]
+                    *              0             0             1 
+    89 vallViheti[9,5]
+                    *              0             0             1 
+    90 vallViheti[10,5]
+                    *              0             0             1 
+    91 vallViheti[11,5]
+                    *              0             0             1 
+    92 vallViheti[12,5]
+                    *              0             0             1 
+    93 vallViheti[13,5]
+                    *              0             0             1 
+    94 vallViheti[14,5]
+                    *              0             0             1 
+    95 vallViheti[15,5]
+                    *              0             0             1 
+    96 vallViheti[16,5]
+                    *              0             0             1 
+    97 vallViheti[17,5]
+                    *              0             0             1 
+    98 vallViheti[18,5]
+                    *              0             0             1 
+    99 vallViheti[19,5]
+                    *              0             0             1 
+   100 vallViheti[20,5]
+                    *              0             0             1 
+   101 vallViheti[1,6]
+                    *              0             0             1 
+   102 vallViheti[2,6]
+                    *              0             0             1 
+   103 vallViheti[3,6]
+                    *              0             0             1 
+   104 vallViheti[4,6]
+                    *              0             0             1 
+   105 vallViheti[5,6]
+                    *              0             0             1 
+   106 vallViheti[6,6]
+                    *              0             0             1 
+   107 vallViheti[7,6]
+                    *              0             0             1 
+   108 vallViheti[8,6]
+                    *              0             0             1 
+   109 vallViheti[9,6]
+                    *              0             0             1 
+   110 vallViheti[10,6]
+                    *              0             0             1 
+   111 vallViheti[11,6]
+                    *              0             0             1 
+   112 vallViheti[12,6]
+                    *              0             0             1 
+   113 vallViheti[13,6]
+                    *              0             0             1 
+   114 vallViheti[14,6]
+                    *              0             0             1 
+   115 vallViheti[15,6]
+                    *              0             0             1 
+   116 vallViheti[16,6]
+                    *              0             0             1 
+   117 vallViheti[17,6]
+                    *              0             0             1 
+   118 vallViheti[18,6]
+                    *              0             0             1 
+   119 vallViheti[19,6]
+                    *              0             0             1 
+   120 vallViheti[20,6]
+                    *              0             0             1 
+   121 vallViheti[1,7]
+                    *              0             0             1 
+   122 vallViheti[2,7]
+                    *              0             0             1 
+   123 vallViheti[3,7]
+                    *              0             0             1 
+   124 vallViheti[4,7]
+                    *              0             0             1 
+   125 vallViheti[5,7]
+                    *              0             0             1 
+   126 vallViheti[6,7]
+                    *              0             0             1 
+   127 vallViheti[7,7]
+                    *              0             0             1 
+   128 vallViheti[8,7]
+                    *              0             0             1 
+   129 vallViheti[9,7]
+                    *              0             0             1 
+   130 vallViheti[10,7]
+                    *              0             0             1 
+   131 vallViheti[11,7]
+                    *              0             0             1 
+   132 vallViheti[12,7]
+                    *              0             0             1 
+   133 vallViheti[13,7]
+                    *              0             0             1 
+   134 vallViheti[14,7]
+                    *              0             0             1 
+   135 vallViheti[15,7]
+                    *              0             0             1 
+   136 vallViheti[16,7]
+                    *              0             0             1 
+   137 vallViheti[17,7]
+                    *              0             0             1 
+   138 vallViheti[18,7]
+                    *              0             0             1 
+   139 vallViheti[19,7]
+                    *              0             0             1 
+   140 vallViheti[20,7]
+                    *              0             0             1 
+   141 vallViheti[1,8]
+                    *              0             0             1 
+   142 vallViheti[2,8]
+                    *              0             0             1 
+   143 vallViheti[3,8]
+                    *              0             0             1 
+   144 vallViheti[4,8]
+                    *              0             0             1 
+   145 vallViheti[5,8]
+                    *              0             0             1 
+   146 vallViheti[6,8]
+                    *              0             0             1 
+   147 vallViheti[7,8]
+                    *              0             0             1 
+   148 vallViheti[8,8]
+                    *              0             0             1 
+   149 vallViheti[9,8]
+                    *              0             0             1 
+   150 vallViheti[10,8]
+                    *              0             0             1 
+   151 vallViheti[11,8]
+                    *              0             0             1 
+   152 vallViheti[12,8]
+                    *              0             0             1 
+   153 vallViheti[13,8]
+                    *              0             0             1 
+   154 vallViheti[14,8]
+                    *              0             0             1 
+   155 vallViheti[15,8]
+                    *              0             0             1 
+   156 vallViheti[16,8]
+                    *              0             0             1 
+   157 vallViheti[17,8]
+                    *              0             0             1 
+   158 vallViheti[18,8]
+                    *              0             0             1 
+   159 vallViheti[19,8]
+                    *              0             0             1 
+   160 vallViheti[20,8]
+                    *              0             0             1 
+   161 vallViheti[1,9]
+                    *              0             0             1 
+   162 vallViheti[2,9]
+                    *              0             0             1 
+   163 vallViheti[3,9]
+                    *              0             0             1 
+   164 vallViheti[4,9]
+                    *              0             0             1 
+   165 vallViheti[5,9]
+                    *              0             0             1 
+   166 vallViheti[6,9]
+                    *              0             0             1 
+   167 vallViheti[7,9]
+                    *              0             0             1 
+   168 vallViheti[8,9]
+                    *              0             0             1 
+   169 vallViheti[9,9]
+                    *              0             0             1 
+   170 vallViheti[10,9]
+                    *              0             0             1 
+   171 vallViheti[11,9]
+                    *              0             0             1 
+   172 vallViheti[12,9]
+                    *              0             0             1 
+   173 vallViheti[13,9]
+                    *              0             0             1 
+   174 vallViheti[14,9]
+                    *              0             0             1 
+   175 vallViheti[15,9]
+                    *              0             0             1 
+   176 vallViheti[16,9]
+                    *              0             0             1 
+   177 vallViheti[17,9]
+                    *              0             0             1 
+   178 vallViheti[18,9]
+                    *              0             0             1 
+   179 vallViheti[19,9]
+                    *              0             0             1 
+   180 vallViheti[20,9]
+                    *              0             0             1 
+   181 vallViheti[1,10]
+                    *              0             0             1 
+   182 vallViheti[2,10]
+                    *              0             0             1 
+   183 vallViheti[3,10]
+                    *              0             0             1 
+   184 vallViheti[4,10]
+                    *              0             0             1 
+   185 vallViheti[5,10]
+                    *              0             0             1 
+   186 vallViheti[6,10]
+                    *              0             0             1 
+   187 vallViheti[7,10]
+                    *              0             0             1 
+   188 vallViheti[8,10]
+                    *              0             0             1 
+   189 vallViheti[9,10]
+                    *              0             0             1 
+   190 vallViheti[10,10]
+                    *              0             0             1 
+   191 vallViheti[11,10]
+                    *              0             0             1 
+   192 vallViheti[12,10]
+                    *              0             0             1 
+   193 vallViheti[13,10]
+                    *              0             0             1 
+   194 vallViheti[14,10]
+                    *              0             0             1 
+   195 vallViheti[15,10]
+                    *              0             0             1 
+   196 vallViheti[16,10]
+                    *              0             0             1 
+   197 vallViheti[17,10]
+                    *              0             0             1 
+   198 vallViheti[18,10]
+                    *              0             0             1 
+   199 vallViheti[19,10]
+                    *              0             0             1 
+   200 vallViheti[20,10]
+                    *              0             0             1 
+   201 vallMegy[1]  *              0             0             1 
+   202 vallMegy[2]  *              1             0             1 
+   203 vallMegy[3]  *              1             0             1 
+   204 vallMegy[4]  *              1             0             1 
+   205 vallMegy[5]  *              0             0             1 
+   206 vallMegy[6]  *              0             0             1 
+   207 vallMegy[7]  *              0             0             1 
+   208 vallMegy[8]  *              0             0             1 
+   209 vallMegy[9]  *              0             0             1 
+   210 vallMegy[10] *              0             0             1 
+
+Integer feasibility conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
