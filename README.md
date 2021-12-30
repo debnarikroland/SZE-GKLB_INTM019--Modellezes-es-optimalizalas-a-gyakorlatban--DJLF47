@@ -1,0 +1,1 @@
+# SZE-GKLB_INTM019--Modellezes-es-optimalizalas-a-gyakorlatban--DJLF47
